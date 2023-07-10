@@ -26,7 +26,7 @@ node.js required
   I will continue to update this periodically though I am not currently taking any help. I did used various activities provided from class to help me use as a framework when working with react functionality.
 ## Tests
 Check me out!
-Live app can be found here:
+Live app can be found here: https://painpeddler.github.io/ReactProfile/
   ## Questions
   
   If you have questions feel free to contact at:
