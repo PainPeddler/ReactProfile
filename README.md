@@ -22,12 +22,12 @@ node.js required
 - open terminal 
 - npm i
 - npm run start
-  ## Contributions
+## Contributions
   I will continue to update this periodically though I am not currently taking any help. I did used various activities provided from class to help me use as a framework when working with react functionality.
-  ## Tests
+## Tests
 Check me out!
+Live app can be found here:
   ## Questions
-live app can be found here:
   
   If you have questions feel free to contact at:
   - Github: PainPeddler
