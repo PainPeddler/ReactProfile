@@ -23,8 +23,8 @@ const Portfolio = () => {
         <Project
           title="Zenify"
           description="A stress relief app for promoting relaxation."
-          githubLink="https://github.com/Cmbailey089/zenify/tree/main/server"
-          deployedLink="https://example.com/zenify"
+          githubLink="https://github.com/Cmbailey089/zenify"
+          deployedLink="https://whispering-sea-09039-50a149ea49a2.herokuapp.com/"
           imageSrc={`${process.env.PUBLIC_URL}/images/Zenify.jpg`}
         />
         {/* Add more Project components for other projects */}
